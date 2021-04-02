@@ -26,4 +26,7 @@ fastfood-plusplus: 1.7.0 # https://www.curseforge.com/minecraft/mc-mods/fastfood
 mushroom-quest: 1.7 # https://www.curseforge.com/minecraft/mc-mods/mushroom-quest/files/2851042
 vietnam: 1.1.0 # https://www.curseforge.com/minecraft/mc-mods/vietnam/files/3212356 NOTE: why the hell not
 kemono-craft: 0.3.16 # https://www.curseforge.com/minecraft/mc-mods/kemonocraft/files/3203672
+natures-compass: 1.12.2-1.8.5 # https://www.curseforge.com/minecraft/mc-mods/natures-compass/files/2893527
+nether-ex: 1.12.2-2.2.4 # https://www.curseforge.com/minecraft/mc-mods/netherex/files
+the-twilight-forest: 1.12.2-3.11.1021 # https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest/files/3051450
 ```
