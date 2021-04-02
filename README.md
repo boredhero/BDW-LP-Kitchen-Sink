@@ -141,6 +141,7 @@ openblocks: 1.12.2-1.8.1 # https://www.curseforge.com/minecraft/mc-mods/openbloc
 drawbridges: 1.1 # https://www.curseforge.com/minecraft/mc-mods/drawbridges/files/2689438
 more-fuels-mod: 1.6.2-hotfix-1 # https://www.curseforge.com/minecraft/mc-mods/more-fuels-mod/files/3062871
 expanded-equivalence: 12.3.17 # https://www.curseforge.com/minecraft/mc-mods/expanded-equivalence/files/3139264
+logistics-pipes: 0.10.3.40 # https://www.curseforge.com/minecraft/mc-mods/logistics-pipes/files/2982930
 # Are these client only?
 inventory-tweaks: 1.63 # https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/files/2482481
 # Library mods
