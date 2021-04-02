@@ -20,6 +20,7 @@ biomes-o-plenty: 1.12.2-7.0.1.2444-universal # https://www.curseforge.com/minecr
 serene-seasons: 1.12.2-1.2.18-universal # https://www.curseforge.com/minecraft/mc-mods/serene-seasons/files/2799213
 clumps: 3.1.2 # https://www.curseforge.com/minecraft/mc-mods/clumps/files/2666198
 abyssalcraft: 1.12.2-1.10.3 # https://www.curseforge.com/minecraft/mc-mods/abyssalcraft/files/3087689
+abyssalcraft-integration: 1.12.2-1.11.2 # https://www.curseforge.com/minecraft/mc-mods/abyssalcraft-integration/files/2959100 
 underground-biomes: 1.12-1.3.8 # https://www.curseforge.com/minecraft/mc-mods/underground-biomes/files
 betweenlands: 3.7.3 # https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod/files NOTE: Split Client and Server jars
 fastfood-plusplus: 1.7.0 # https://www.curseforge.com/minecraft/mc-mods/fastfood/files/3241099 NOTE: Yeah it's stupid. Yeah, I want it anyways.
@@ -108,6 +109,26 @@ rope-bridge: 1.12-2.0.7 # https://www.curseforge.com/minecraft/mc-mods/rope-brid
 advanced-solar-panels: 4.2.1 # https://www.curseforge.com/minecraft/mc-mods/advanced-solar-panels/files/2652182
 ender-mail: 1.12.2-1.1.3 # https://www.curseforge.com/minecraft/mc-mods/ender-mail/files/3028024
 genetics-reborn: 1.32 # https://www.curseforge.com/minecraft/mc-mods/genetics-reborn/files/3149033
+thaumcraft: 1.12.2-6.1.BETA26 # https://www.curseforge.com/minecraft/mc-mods/thaumcraft/files/2629023
+crimson-revelations: 0.8 # https://www.curseforge.com/minecraft/mc-mods/crimson-revelations/files/2903439
+blood-magic: 1.12.2-2.4.3-105 # https://www.curseforge.com/minecraft/mc-mods/blood-magic/files/2822288
+reliquary-v1.3: 1.12.2-1.3.4.796 # https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3/files/2761319
+simpletomb: 1.12.2-1.0.0 # https://www.curseforge.com/minecraft/mc-mods/simple-tomb/files/3024234
+project-e: 1.12.2-PE1.4.1 # https://www.curseforge.com/minecraft/mc-mods/projecte/files/2702991
+morph: 1.12.2-7.2.1 # https://www.curseforge.com/minecraft/mc-mods/morph/files/2995522
+totemic: 1.12.2-0.11.6 # https://www.curseforge.com/minecraft/mc-mods/totemic/files/2700798
+vampirism: 1.12.2-1.6.2 # https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire/files/2890062
+dimensional-doors: 3.0.9-287 # https://www.curseforge.com/minecraft/mc-mods/dimensionaldoors/files/2558528
+hexxit-gear: 1.12.2-2.8.0 # https://www.curseforge.com/minecraft/mc-mods/hexxit-gear/files/2578245
+pams-harvestcraft: 1.12.2zg # https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft/files/2904825
+pams-brewcraft: 1.12.2-1.0.2 # https://www.curseforge.com/minecraft/mc-mods/pams-brewcraft/files/2997188
+pams-breadcraft: 1.12.2-1.1.1 # https://www.curseforge.com/minecraft/mc-mods/pams-breadcraft/files/3223057
+cooking-for-blockheads: 1.12.2-6.5.0 # https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads/files/2862651
+culinary-construct: 1.3.4 # https://www.curseforge.com/minecraft/mc-mods/culinary-construct/files/2937109
+jaffa: 7.63.1 # https://www.curseforge.com/minecraft/mc-mods/jaffa-foods-a-harvestcraft-addon/files/2830763
+future-mc: 1.12.2-0.2.6.1 # https://www.curseforge.com/minecraft/mc-mods/future-mc/files/3194413
+# Are these client only?
+inventory-tweaks: 1.63 # https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/files/2482481
 # Library mods
 shadowfacts-forgelin: 1.8.4 # https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin/files/2785465
 tesla-core-lib: 1.0.17.25 # https://www.curseforge.com/minecraft/mc-mods/tesla-core-lib/files/2891841
@@ -133,4 +154,6 @@ valkyrie-compat: 1.12.2-2.0.20.1 # https://www.curseforge.com/minecraft/mc-mods/
 omlib: 1.12.2-3.1.4-249 # https://www.curseforge.com/minecraft/mc-mods/omlib/files/2871957
 redstone-flux: 1.12-2.1.1.1-universal # https://www.curseforge.com/minecraft/mc-mods/redstone-flux/files/2920436
 lib-vulpes: 1.12.2-0.4.2-82 # https://www.curseforge.com/minecraft/mc-mods/libvulpes/files/3257461
+ichunutil: 1.12.2-7.2.2 # https://www.curseforge.com/minecraft/mc-mods/ichunutil/files/2801262
+placebo: 1.12.2-1.6.0 # https://www.curseforge.com/minecraft/mc-mods/placebo/files/2694382
 ```
