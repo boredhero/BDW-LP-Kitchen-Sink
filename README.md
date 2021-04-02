@@ -144,6 +144,13 @@ expanded-equivalence: 12.3.17 # https://www.curseforge.com/minecraft/mc-mods/exp
 logistics-pipes: 0.10.3.40 # https://www.curseforge.com/minecraft/mc-mods/logistics-pipes/files/2982930
 # Are these client only?
 inventory-tweaks: 1.63 # https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/files/2482481
+hwyla: 1.8.26-b41 # https://www.curseforge.com/minecraft/mc-mods/hwyla/files/2568751
+jei: 1.12.2-4.16.1.301 # https://www.curseforge.com/minecraft/mc-mods/jei/files/3040523
+jehc: 1.7.2 # https://www.curseforge.com/minecraft/mc-mods/just-enough-harvestcraft/files/2997129
+tjei: 1.12.2-1.6.0-27 # https://www.curseforge.com/minecraft/mc-mods/thaumic-jei/files/2705304
+jee: 1.12.2-1.0.8 # https://www.curseforge.com/minecraft/mc-mods/just-enough-energistics-jee/files
+jer: 1.12.2-1.1.3.61 # https://www.curseforge.com/minecraft/mc-mods/just-enough-reactors/files
+gjeia: 1.0.2 # https://www.curseforge.com/minecraft/mc-mods/gendustry-jei-addon/files/2609434
 # Library mods
 shadowfacts-forgelin: 1.8.4 # https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin/files/2785465
 tesla-core-lib: 1.0.17.25 # https://www.curseforge.com/minecraft/mc-mods/tesla-core-lib/files/2891841
