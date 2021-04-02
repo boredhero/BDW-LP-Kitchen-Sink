@@ -21,14 +21,14 @@ serene-seasons: 1.12.2-1.2.18-universal # https://www.curseforge.com/minecraft/m
 clumps: 3.1.2 # https://www.curseforge.com/minecraft/mc-mods/clumps/files/2666198
 abyssalcraft: 1.12.2-1.10.3 # https://www.curseforge.com/minecraft/mc-mods/abyssalcraft/files/3087689
 abyssalcraft-integration: 1.12.2-1.11.2 # https://www.curseforge.com/minecraft/mc-mods/abyssalcraft-integration/files/2959100 
-underground-biomes: 1.12-1.3.8 # https://www.curseforge.com/minecraft/mc-mods/underground-biomes/files
-betweenlands: 3.7.3 # https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod/files NOTE: Split Client and Server jars
+underground-biomes: 1.12-1.3.8 # https://www.curseforge.com/minecraft/mc-mods/underground-biomes/files/2925430
+betweenlands: 3.7.3 # https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod/files/3248202 NOTE: Split Client and Server jars
 fastfood-plusplus: 1.7.0 # https://www.curseforge.com/minecraft/mc-mods/fastfood/files/3241099 NOTE: Yeah it's stupid. Yeah, I want it anyways.
 mushroom-quest: 1.7 # https://www.curseforge.com/minecraft/mc-mods/mushroom-quest/files/2851042
 vietnam: 1.1.0 # https://www.curseforge.com/minecraft/mc-mods/vietnam/files/3212356 NOTE: why the hell not
 kemono-craft: 0.3.16 # https://www.curseforge.com/minecraft/mc-mods/kemonocraft/files/3203672
 natures-compass: 1.12.2-1.8.5 # https://www.curseforge.com/minecraft/mc-mods/natures-compass/files/2893527
-nether-ex: 1.12.2-2.2.4 # https://www.curseforge.com/minecraft/mc-mods/netherex/files
+nether-ex: 1.12.2-2.2.4 # https://www.curseforge.com/minecraft/mc-mods/netherex/files/3177625
 the-twilight-forest: 1.12.2-3.11.1021 # https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest/files/3051450
 save-my-stronghold: 1.12.2-1.0.0 # https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold/files/2845037
 snow-real-magic: 0.3.3 # https://www.curseforge.com/minecraft/mc-mods/snow-real-magic/files/2788702
@@ -48,7 +48,7 @@ locks: 1.12.2-2.5.1 # https://www.curseforge.com/minecraft/mc-mods/locks/files/3
 fragile-glass-and-thin-ice: 1.12.2-2.1.2 # https://www.curseforge.com/minecraft/mc-mods/fragile-glass-and-thin-ice/files/3104736
 yungs-better-caves: 1.12.2-2.0.4 # https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves/files/3003242
 pams-redbud-tree: 1.12.2b # https://www.curseforge.com/minecraft/mc-mods/pams-redbud-tree/files/3059989
-axolotls: 4-1.12.2 # https://www.curseforge.com/minecraft/mc-mods/axolotl-and-axolotl-in-a-bucket/files/all?filter-game-version=2020709689%3A6756
+axolotls: 4-1.12.2 # https://www.curseforge.com/minecraft/mc-mods/axolotl-and-axolotl-in-a-bucket/files/3073450
 otakomod: 3.6.4 # https://www.curseforge.com/minecraft/mc-mods/otakomod/files/3253195
 baubles: 1.12-1.5.2 # https://www.curseforge.com/minecraft/mc-mods/baubles/files/2518667
 botania: r1.10-363 # https://www.curseforge.com/minecraft/mc-mods/botania/files/2846950
@@ -149,8 +149,8 @@ hwyla: 1.8.26-b41 # https://www.curseforge.com/minecraft/mc-mods/hwyla/files/256
 jei: 1.12.2-4.16.1.301 # https://www.curseforge.com/minecraft/mc-mods/jei/files/3040523
 jehc: 1.7.2 # https://www.curseforge.com/minecraft/mc-mods/just-enough-harvestcraft/files/2997129
 tjei: 1.12.2-1.6.0-27 # https://www.curseforge.com/minecraft/mc-mods/thaumic-jei/files/2705304
-jee: 1.12.2-1.0.8 # https://www.curseforge.com/minecraft/mc-mods/just-enough-energistics-jee/files
-jer: 1.12.2-1.1.3.61 # https://www.curseforge.com/minecraft/mc-mods/just-enough-reactors/files
+jee: 1.12.2-1.0.8 # https://www.curseforge.com/minecraft/mc-mods/just-enough-energistics-jee/files/2783832
+jer: 1.12.2-1.1.3.61 # https://www.curseforge.com/minecraft/mc-mods/just-enough-reactors/files/2671784
 gjeia: 1.0.2 # https://www.curseforge.com/minecraft/mc-mods/gendustry-jei-addon/files/2609434
 # Library mods
 shadowfacts-forgelin: 1.8.4 # https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin/files/2785465
@@ -182,5 +182,5 @@ placebo: 1.12.2-1.6.0 # https://www.curseforge.com/minecraft/mc-mods/placebo/fil
 connected-textures-mod: 1.0.2.31 # https://www.curseforge.com/minecraft/mc-mods/ctm/files/2915363
 mystical-lib: 1.12.2-1.10.0 # https://www.curseforge.com/minecraft/mc-mods/mysticallib/files/3243257
 openmodslib: 1.12.2-0.12.2 # https://www.curseforge.com/minecraft/mc-mods/openmodslib/files/2699055
-hammer-core: https://www.curseforge.com/minecraft/mc-mods/hammer-lib/files/3157564
+hammer-core: 2.0.6.26 # https://www.curseforge.com/minecraft/mc-mods/hammer-lib/files/3157564
 ```
