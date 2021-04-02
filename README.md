@@ -139,6 +139,7 @@ ender-storage-1.8+: 1.12.2-2.4.6.137-universal # https://www.curseforge.com/mine
 astral-sorcery: 1.12.2-1.10.27 # https://www.curseforge.com/minecraft/mc-mods/astral-sorcery/files/3044416
 openblocks: 1.12.2-1.8.1 # https://www.curseforge.com/minecraft/mc-mods/openblocks/files/2699056
 drawbridges: 1.1 # https://www.curseforge.com/minecraft/mc-mods/drawbridges/files/2689438
+more-fuels-mod: 1.6.2-hotfix-1 # https://www.curseforge.com/minecraft/mc-mods/more-fuels-mod/files/3062871
 # Are these client only?
 inventory-tweaks: 1.63 # https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/files/2482481
 # Library mods
