@@ -142,6 +142,7 @@ drawbridges: 1.1 # https://www.curseforge.com/minecraft/mc-mods/drawbridges/file
 more-fuels-mod: 1.6.2-hotfix-1 # https://www.curseforge.com/minecraft/mc-mods/more-fuels-mod/files/3062871
 expanded-equivalence: 12.3.17 # https://www.curseforge.com/minecraft/mc-mods/expanded-equivalence/files/3139264
 logistics-pipes: 0.10.3.40 # https://www.curseforge.com/minecraft/mc-mods/logistics-pipes/files/2982930
+journeymap: 1.12.2-5.7.1 # https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2916002
 # Are these client only?
 inventory-tweaks: 1.63 # https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/files/2482481
 hwyla: 1.8.26-b41 # https://www.curseforge.com/minecraft/mc-mods/hwyla/files/2568751
