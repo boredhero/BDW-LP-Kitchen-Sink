@@ -131,6 +131,7 @@ natura: 1.12.2-4.3.2.69 # https://www.curseforge.com/minecraft/mc-mods/natura/fi
 quark: r1.6-179 # https://www.curseforge.com/minecraft/mc-mods/quark/files/2924091
 dank-null: 1.12.2-1.7.91 # https://www.curseforge.com/minecraft/mc-mods/dank-null/files/2920596
 flans-mod: 1.12.2-5.7.2 # https://www.curseforge.com/minecraft/mc-mods/flans-mod-5-5-2/files/3195600
+aquaculture: 1.12.2-1.6.8 # https://www.curseforge.com/minecraft/mc-mods/aquaculture/files/2659258
 # Are these client only?
 inventory-tweaks: 1.63 # https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/files/2482481
 # Library mods
