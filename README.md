@@ -124,6 +124,7 @@ pams-harvestcraft: 1.12.2zg # https://www.curseforge.com/minecraft/mc-mods/pams-
 pams-brewcraft: 1.12.2-1.0.2 # https://www.curseforge.com/minecraft/mc-mods/pams-brewcraft/files/2997188
 pams-breadcraft: 1.12.2-1.1.1 # https://www.curseforge.com/minecraft/mc-mods/pams-breadcraft/files/3223057
 cooking-for-blockheads: 1.12.2-6.5.0 # https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads/files/2862651
+farming-for-blockheads: 1.12.2-3.1.28 # https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads/files/3222141
 culinary-construct: 1.3.4 # https://www.curseforge.com/minecraft/mc-mods/culinary-construct/files/2937109
 jaffa: 7.63.1 # https://www.curseforge.com/minecraft/mc-mods/jaffa-foods-a-harvestcraft-addon/files/2830763
 future-mc: 1.12.2-0.2.6.1 # https://www.curseforge.com/minecraft/mc-mods/future-mc/files/3194413
@@ -132,6 +133,11 @@ quark: r1.6-179 # https://www.curseforge.com/minecraft/mc-mods/quark/files/29240
 dank-null: 1.12.2-1.7.91 # https://www.curseforge.com/minecraft/mc-mods/dank-null/files/2920596
 flans-mod: 1.12.2-5.7.2 # https://www.curseforge.com/minecraft/mc-mods/flans-mod-5-5-2/files/3195600
 aquaculture: 1.12.2-1.6.8 # https://www.curseforge.com/minecraft/mc-mods/aquaculture/files/2659258
+chisel: 1.12.2-1.0.2.45 # https://www.curseforge.com/minecraft/mc-mods/chisel/files/2915375
+blockcraftery: 1.12.2-1.3.1 # https://www.curseforge.com/minecraft/mc-mods/blockcraftery/files/2716712
+ender-storage-1.8+: 1.12.2-2.4.6.137-universal # https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8/files/2755787
+astral-sorcery: 1.12.2-1.10.27 # https://www.curseforge.com/minecraft/mc-mods/astral-sorcery/files/3044416
+openblocks: 1.12.2-1.8.1 # https://www.curseforge.com/minecraft/mc-mods/openblocks/files/2699056
 # Are these client only?
 inventory-tweaks: 1.63 # https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/files/2482481
 # Library mods
@@ -161,4 +167,7 @@ redstone-flux: 1.12-2.1.1.1-universal # https://www.curseforge.com/minecraft/mc-
 lib-vulpes: 1.12.2-0.4.2-82 # https://www.curseforge.com/minecraft/mc-mods/libvulpes/files/3257461
 ichunutil: 1.12.2-7.2.2 # https://www.curseforge.com/minecraft/mc-mods/ichunutil/files/2801262
 placebo: 1.12.2-1.6.0 # https://www.curseforge.com/minecraft/mc-mods/placebo/files/2694382
+connected-textures-mod: 1.0.2.31 # https://www.curseforge.com/minecraft/mc-mods/ctm/files/2915363
+mystical-lib: 1.12.2-1.10.0 # https://www.curseforge.com/minecraft/mc-mods/mysticallib/files/3243257
+openmodslib: 1.12.2-0.12.2 # https://www.curseforge.com/minecraft/mc-mods/openmodslib/files/2699055
 ```
