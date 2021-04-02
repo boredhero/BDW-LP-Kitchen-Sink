@@ -140,6 +140,7 @@ astral-sorcery: 1.12.2-1.10.27 # https://www.curseforge.com/minecraft/mc-mods/as
 openblocks: 1.12.2-1.8.1 # https://www.curseforge.com/minecraft/mc-mods/openblocks/files/2699056
 drawbridges: 1.1 # https://www.curseforge.com/minecraft/mc-mods/drawbridges/files/2689438
 more-fuels-mod: 1.6.2-hotfix-1 # https://www.curseforge.com/minecraft/mc-mods/more-fuels-mod/files/3062871
+expanded-equivalence: 12.3.17 # https://www.curseforge.com/minecraft/mc-mods/expanded-equivalence/files/3139264
 # Are these client only?
 inventory-tweaks: 1.63 # https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/files/2482481
 # Library mods
@@ -172,4 +173,5 @@ placebo: 1.12.2-1.6.0 # https://www.curseforge.com/minecraft/mc-mods/placebo/fil
 connected-textures-mod: 1.0.2.31 # https://www.curseforge.com/minecraft/mc-mods/ctm/files/2915363
 mystical-lib: 1.12.2-1.10.0 # https://www.curseforge.com/minecraft/mc-mods/mysticallib/files/3243257
 openmodslib: 1.12.2-0.12.2 # https://www.curseforge.com/minecraft/mc-mods/openmodslib/files/2699055
+hammer-core: https://www.curseforge.com/minecraft/mc-mods/hammer-lib/files/3157564
 ```
