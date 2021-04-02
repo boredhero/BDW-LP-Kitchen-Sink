@@ -127,6 +127,7 @@ cooking-for-blockheads: 1.12.2-6.5.0 # https://www.curseforge.com/minecraft/mc-m
 culinary-construct: 1.3.4 # https://www.curseforge.com/minecraft/mc-mods/culinary-construct/files/2937109
 jaffa: 7.63.1 # https://www.curseforge.com/minecraft/mc-mods/jaffa-foods-a-harvestcraft-addon/files/2830763
 future-mc: 1.12.2-0.2.6.1 # https://www.curseforge.com/minecraft/mc-mods/future-mc/files/3194413
+natura: 1.12.2-4.3.2.69 # https://www.curseforge.com/minecraft/mc-mods/natura/files/2711439
 # Are these client only?
 inventory-tweaks: 1.63 # https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/files/2482481
 # Library mods
