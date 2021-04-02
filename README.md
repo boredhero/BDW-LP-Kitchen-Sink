@@ -143,6 +143,7 @@ more-fuels-mod: 1.6.2-hotfix-1 # https://www.curseforge.com/minecraft/mc-mods/mo
 expanded-equivalence: 12.3.17 # https://www.curseforge.com/minecraft/mc-mods/expanded-equivalence/download/3139264
 logistics-pipes: 0.10.3.40 # https://www.curseforge.com/minecraft/mc-mods/logistics-pipes/download/2982930
 journeymap: 1.12.2-5.7.1 # https://www.curseforge.com/minecraft/mc-mods/journeymap/download/2916002
+spiceoflife: 1.12-1.3.12 # https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life/download/2571951
 # Are these client only?
 inventory-tweaks: 1.63 # https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/download/2482481
 hwyla: 1.8.26-b41 # https://www.curseforge.com/minecraft/mc-mods/hwyla/download/2568751
@@ -183,4 +184,5 @@ connected-textures-mod: 1.0.2.31 # https://www.curseforge.com/minecraft/mc-mods/
 mystical-lib: 1.12.2-1.10.0 # https://www.curseforge.com/minecraft/mc-mods/mysticallib/download/3243257
 openmodslib: 1.12.2-0.12.2 # https://www.curseforge.com/minecraft/mc-mods/openmodslib/download/2699055
 hammer-core: 2.0.6.26 # https://www.curseforge.com/minecraft/mc-mods/hammer-lib/download/3157564
+apple-core: 1.12.2-3.4.0 # https://www.curseforge.com/minecraft/mc-mods/applecore/download/2969118
 ```
