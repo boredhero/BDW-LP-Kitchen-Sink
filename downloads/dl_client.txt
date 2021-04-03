@@ -69,7 +69,6 @@ https://www.curseforge.com/minecraft/mc-mods/morph-o-tool/download/2658176
 https://www.curseforge.com/minecraft/mc-mods/opencomputers/download/2828357
 https://www.curseforge.com/minecraft/mc-mods/wireless-crafting-terminal/download/2830252
 https://www.curseforge.com/minecraft/mc-mods/translocators-1-8/download/2755795
-https://www.curseforge.com/minecraft/mc-mods/jaopca/download/2722779
 https://www.curseforge.com/minecraft/mc-mods/buildcraft/download/3204475
 https://www.curseforge.com/minecraft/mc-mods/industrial-craft/download/3078604
 https://www.curseforge.com/minecraft/mc-mods/chicken-chunks-1-8/download/2755785
@@ -151,7 +150,6 @@ https://www.curseforge.com/minecraft/mc-mods/autoreglib/download/2746011
 https://www.curseforge.com/minecraft/mc-mods/ae2wtlib/download/2830114
 https://www.curseforge.com/minecraft/mc-mods/p455w0rds-library/download/2830265
 https://www.curseforge.com/minecraft/mc-mods/forge-multipart-cbe/download/2755790
-https://www.curseforge.com/minecraft/mc-mods/wrapup/download/2486198
 https://www.curseforge.com/minecraft/mc-mods/mrtjpcore/download/2735197
 https://www.curseforge.com/minecraft/mc-mods/bdlib/download/2518031
 https://www.curseforge.com/minecraft/mc-mods/valkyrielib/download/2691542

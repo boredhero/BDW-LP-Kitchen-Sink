@@ -86,7 +86,7 @@ morph-o-tool: 1.2.21 # https://www.curseforge.com/minecraft/mc-mods/morph-o-tool
 opencomputers: 1.12.2-1.7.5.192 # https://www.curseforge.com/minecraft/mc-mods/opencomputers/download/2828357
 wireless-crafting-terminal: 1.12.2-3.12.97 # https://www.curseforge.com/minecraft/mc-mods/wireless-crafting-terminal/download/2830252
 translocators: 1.12.2-2.5.2.81-universal # https://www.curseforge.com/minecraft/mc-mods/translocators-1-8/download/2755795
-jaopca: 1.12.2-2.2.8.103 # https://www.curseforge.com/minecraft/mc-mods/jaopca/download/2722779
+#jaopca: 1.12.2-2.2.8.103 # https://www.curseforge.com/minecraft/mc-mods/jaopca/download/2722779
 buildcraft-all: 7.99.24.8 # https://www.curseforge.com/minecraft/mc-mods/buildcraft/download/3204475
 industrialcraft-2: 2.8.221-ex112 # https://www.curseforge.com/minecraft/mc-mods/industrial-craft/download/3078604
 chicken-chunks: 1.12.2-2.4.2.74-universal # https://www.curseforge.com/minecraft/mc-mods/chicken-chunks-1-8/download/2755785
@@ -171,7 +171,7 @@ autoreglib: 1.3-32 # https://www.curseforge.com/minecraft/mc-mods/autoreglib/dow
 ae2-wireless-terminal-library: 1.12.2-1.0.34 # https://www.curseforge.com/minecraft/mc-mods/ae2wtlib/download/2830114
 p455w0rds-library: 1.12.2-2.3.161 # https://www.curseforge.com/minecraft/mc-mods/p455w0rds-library/download/2830265
 forge-multipart-cbe: 1.12.2-2.6.2.83-universal # https://www.curseforge.com/minecraft/mc-mods/forge-multipart-cbe/download/2755790
-wrap-up: 1.12-1.1.3 # https://www.curseforge.com/minecraft/mc-mods/wrapup/download/2486198
+#wrap-up: 1.12-1.1.3 # https://www.curseforge.com/minecraft/mc-mods/wrapup/download/2486198
 mrtjpcore: 1.12.2-2.1.4.43-universal # https://www.curseforge.com/minecraft/mc-mods/mrtjpcore/download/2735197
 bd-lib: 1.14.3.12 # https://www.curseforge.com/minecraft/mc-mods/bdlib/download/2518031
 valkyrie-lib: 1.12.2-2.0.20.1 # https://www.curseforge.com/minecraft/mc-mods/valkyrielib/download/2691542
