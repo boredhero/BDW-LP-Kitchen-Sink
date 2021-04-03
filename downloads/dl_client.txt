@@ -30,7 +30,6 @@ https://www.curseforge.com/minecraft/mc-mods/natural-nether-portals/download/251
 https://www.curseforge.com/minecraft/mc-mods/locks/download/3020518
 https://www.curseforge.com/minecraft/mc-mods/fragile-glass-and-thin-ice/download/3104736
 https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves/download/3003242
-https://www.curseforge.com/minecraft/mc-mods/pams-redbud-tree/download/3059989
 https://www.curseforge.com/minecraft/mc-mods/axolotl-and-axolotl-in-a-bucket/download/3073450
 https://www.curseforge.com/minecraft/mc-mods/otakomod/download/3253195
 https://www.curseforge.com/minecraft/mc-mods/baubles/download/2518667
@@ -170,3 +169,5 @@ https://www.curseforge.com/minecraft/mc-mods/jeid/download/2919737
 https://www.curseforge.com/minecraft/mc-mods/advanced-solar-panels-patcher/download/3034074
 https://www.curseforge.com/minecraft/mc-mods/universal-mod-core/download/3141762
 https://www.curseforge.com/minecraft/mc-mods/track-api/download/2825260
+https://www.curseforge.com/minecraft/mc-mods/randompatches-forge/download/3133651
+https://www.curseforge.com/minecraft/mc-mods/randomtweaks/download/3204340

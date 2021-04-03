@@ -47,7 +47,6 @@ natural-nether-portals: 1.2.0 # https://www.curseforge.com/minecraft/mc-mods/nat
 locks: 1.12.2-2.5.1 # https://www.curseforge.com/minecraft/mc-mods/locks/download/3020518
 fragile-glass-and-thin-ice: 1.12.2-2.1.2 # https://www.curseforge.com/minecraft/mc-mods/fragile-glass-and-thin-ice/download/3104736
 yungs-better-caves: 1.12.2-2.0.4 # https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves/download/3003242
-pams-redbud-tree: 1.12.2b # https://www.curseforge.com/minecraft/mc-mods/pams-redbud-tree/download/3059989
 axolotls: 4-1.12.2 # https://www.curseforge.com/minecraft/mc-mods/axolotl-and-axolotl-in-a-bucket/download/3073450
 otakomod: 3.6.4 # https://www.curseforge.com/minecraft/mc-mods/otakomod/download/3253195
 baubles: 1.12-1.5.2 # https://www.curseforge.com/minecraft/mc-mods/baubles/download/2518667
@@ -193,4 +192,6 @@ just-enough-ids: 1.0.3-55 # https://www.curseforge.com/minecraft/mc-mods/jeid/do
 advanced-solar-panels-patcher: 1.1 # https://www.curseforge.com/minecraft/mc-mods/advanced-solar-panels-patcher/download/3034074
 universal-mod-core: 1.0.1 # https://www.curseforge.com/minecraft/mc-mods/universal-mod-core/download/3141762
 track-api: 1.2 # https://www.curseforge.com/minecraft/mc-mods/track-api/download/2825260
+random-patches: 1.12.2-1.22.1.10 # https://www.curseforge.com/minecraft/mc-mods/randompatches-forge/download/3133651
+random-tweaks: 1.12.2-2.8.3.1 # https://www.curseforge.com/minecraft/mc-mods/randomtweaks/download/3204340 
 ```
