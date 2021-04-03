@@ -190,4 +190,5 @@ gunpowderlib: 1.12.2-1.1 # https://www.curseforge.com/minecraft/mc-mods/gunpowde
 libraryex: 1.12.2-1.2.1 # https://www.curseforge.com/minecraft/mc-mods/libraryex/download/3137253
 gottsch-core: 1.12.2-f14.23.5.2854-v1.14.0 # https://www.curseforge.com/minecraft/mc-mods/gottschcore/download/3138042
 just-enough-ids: 1.0.3-55 # https://www.curseforge.com/minecraft/mc-mods/jeid/download/2919737
+advanced-solar-panels-patcher: 1.1 # https://www.curseforge.com/minecraft/mc-mods/advanced-solar-panels-patcher/download/3034074
 ```
