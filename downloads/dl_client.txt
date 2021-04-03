@@ -84,7 +84,6 @@ https://www.curseforge.com/minecraft/mc-mods/forestry/download/2918418
 https://www.curseforge.com/minecraft/mc-mods/gendustry/download/2516215
 https://www.curseforge.com/minecraft/mc-mods/simple-generators/download/2694397
 https://www.curseforge.com/minecraft/mc-mods/security-craft/download/3203501
-https://www.curseforge.com/minecraft/mc-mods/railcraft/download/2687757
 https://www.curseforge.com/minecraft/mc-mods/openmodularturrets/download/3061229
 https://www.curseforge.com/minecraft/mc-mods/ompd/download/3085585
 https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry/download/3258285
@@ -127,6 +126,7 @@ https://www.curseforge.com/minecraft/mc-mods/expanded-equivalence/download/31392
 https://www.curseforge.com/minecraft/mc-mods/logistics-pipes/download/2982930
 https://www.curseforge.com/minecraft/mc-mods/journeymap/download/2916002
 https://www.curseforge.com/minecraft/mc-mods/ceramics/download/3158763
+https://www.curseforge.com/minecraft/mc-mods/immersive-railroading/download/3137602
 https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/download/2482481
 https://www.curseforge.com/minecraft/mc-mods/hwyla/download/2568751
 https://www.curseforge.com/minecraft/mc-mods/jei/download/3040523
@@ -171,3 +171,5 @@ https://www.curseforge.com/minecraft/mc-mods/libraryex/download/3137253
 https://www.curseforge.com/minecraft/mc-mods/gottschcore/download/3138042
 https://www.curseforge.com/minecraft/mc-mods/jeid/download/2919737
 https://www.curseforge.com/minecraft/mc-mods/advanced-solar-panels-patcher/download/3034074
+https://www.curseforge.com/minecraft/mc-mods/universal-mod-core/download/3141762
+https://www.curseforge.com/minecraft/mc-mods/track-api/download/2825260

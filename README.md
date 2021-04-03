@@ -101,7 +101,6 @@ forestry: 1.12.2-5.8.2.422 # https://www.curseforge.com/minecraft/mc-mods/forest
 gendustry: 1.6.5.8 # https://www.curseforge.com/minecraft/mc-mods/gendustry/download/2516215
 simple-generators: 1.12.2-2.0.20.2 # https://www.curseforge.com/minecraft/mc-mods/simple-generators/download/2694397
 security-craft: 1.8.21 # https://www.curseforge.com/minecraft/mc-mods/security-craft/download/3203501
-railcraft: 12.0.0 # https://www.curseforge.com/minecraft/mc-mods/railcraft/download/2687757
 open-modular-turrets: 1.12.2-3.1.12-378 # https://www.curseforge.com/minecraft/mc-mods/openmodularturrets/download/3061229
 open-modular-passive-defense: 1.12.2-3.1.1-76 # https://www.curseforge.com/minecraft/mc-mods/ompd/download/3085585
 advanced-rocketry: 1.12.2-2.0.0-242 # https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry/download/3258285
@@ -145,6 +144,7 @@ logistics-pipes: 0.10.3.40 # https://www.curseforge.com/minecraft/mc-mods/logist
 journeymap: 1.12.2-5.7.1 # https://www.curseforge.com/minecraft/mc-mods/journeymap/download/2916002
 spiceoflife: 1.12-1.3.12 # https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life/download/2571951
 ceramics: 1.3.7b # https://www.curseforge.com/minecraft/mc-mods/ceramics/download/3158763
+immersive-railroading: 1.8.0-7e0f82 # https://www.curseforge.com/minecraft/mc-mods/immersive-railroading/download/3137602
 # Are these client only?
 inventory-tweaks: 1.63 # https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/download/2482481
 hwyla: 1.8.26-b41 # https://www.curseforge.com/minecraft/mc-mods/hwyla/download/2568751
@@ -191,4 +191,6 @@ libraryex: 1.12.2-1.2.1 # https://www.curseforge.com/minecraft/mc-mods/libraryex
 gottsch-core: 1.12.2-f14.23.5.2854-v1.14.0 # https://www.curseforge.com/minecraft/mc-mods/gottschcore/download/3138042
 just-enough-ids: 1.0.3-55 # https://www.curseforge.com/minecraft/mc-mods/jeid/download/2919737
 advanced-solar-panels-patcher: 1.1 # https://www.curseforge.com/minecraft/mc-mods/advanced-solar-panels-patcher/download/3034074
+universal-mod-core: 1.0.1 # https://www.curseforge.com/minecraft/mc-mods/universal-mod-core/download/3141762
+track-api: 1.2 # https://www.curseforge.com/minecraft/mc-mods/track-api/download/2825260
 ```
