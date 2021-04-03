@@ -144,6 +144,7 @@ expanded-equivalence: 12.3.17 # https://www.curseforge.com/minecraft/mc-mods/exp
 logistics-pipes: 0.10.3.40 # https://www.curseforge.com/minecraft/mc-mods/logistics-pipes/download/2982930
 journeymap: 1.12.2-5.7.1 # https://www.curseforge.com/minecraft/mc-mods/journeymap/download/2916002
 spiceoflife: 1.12-1.3.12 # https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life/download/2571951
+ceramics: 1.3.7b # https://www.curseforge.com/minecraft/mc-mods/ceramics/download/3158763
 # Are these client only?
 inventory-tweaks: 1.63 # https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/download/2482481
 hwyla: 1.8.26-b41 # https://www.curseforge.com/minecraft/mc-mods/hwyla/download/2568751
