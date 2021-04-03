@@ -59,7 +59,7 @@ rftools: 1.12-7.73 # https://www.curseforge.com/minecraft/mc-mods/rftools/downlo
 rftools-control: 1.12-2.0.2 # https://www.curseforge.com/minecraft/mc-mods/rftools-control/download/2705813
 rftools-power: 1.12-1.2.0 # https://www.curseforge.com/minecraft/mc-mods/rftools-power/download/2704404
 applied-energistics-2: rv6-stable-7 # https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/download/2747063
-mekanism: 1.12.2-9.8.3.390 # https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/download/2747063
+mekanism: 1.12.2-9.8.3.390 # https://www.curseforge.com/minecraft/mc-mods/mekanism/download/2835175
 industrial-foregoing: 1.12.2-1.12.13-237 # https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing/download/2745321
 integration-foregoing: 1.12.2-1.11 # https://www.curseforge.com/minecraft/mc-mods/integration-foregoing/download/3200529
 tinkers-construct: 1.12.2-2.13.0.183 # https://www.curseforge.com/minecraft/mc-mods/tinkers-construct/download/2902483

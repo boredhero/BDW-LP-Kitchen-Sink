@@ -42,7 +42,7 @@ https://www.curseforge.com/minecraft/mc-mods/rftools/download/2861573
 https://www.curseforge.com/minecraft/mc-mods/rftools-control/download/2705813
 https://www.curseforge.com/minecraft/mc-mods/rftools-power/download/2704404
 https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/download/2747063
-https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/download/2747063
+https://www.curseforge.com/minecraft/mc-mods/mekanism/download/2835175
 https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing/download/2745321
 https://www.curseforge.com/minecraft/mc-mods/integration-foregoing/download/3200529
 https://www.curseforge.com/minecraft/mc-mods/tinkers-construct/download/2902483
@@ -126,7 +126,6 @@ https://www.curseforge.com/minecraft/mc-mods/more-fuels-mod/download/3062871
 https://www.curseforge.com/minecraft/mc-mods/expanded-equivalence/download/3139264
 https://www.curseforge.com/minecraft/mc-mods/logistics-pipes/download/2982930
 https://www.curseforge.com/minecraft/mc-mods/journeymap/download/2916002
-
 https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/download/2482481
 https://www.curseforge.com/minecraft/mc-mods/hwyla/download/2568751
 https://www.curseforge.com/minecraft/mc-mods/jei/download/3040523
@@ -135,7 +134,6 @@ https://www.curseforge.com/minecraft/mc-mods/thaumic-jei/download/2705304
 https://www.curseforge.com/minecraft/mc-mods/just-enough-energistics-jee/download/2783832
 https://www.curseforge.com/minecraft/mc-mods/just-enough-reactors/download/2671784
 https://www.curseforge.com/minecraft/mc-mods/gendustry-jei-addon/download/2609434
-
 https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin/download/2785465
 https://www.curseforge.com/minecraft/mc-mods/tesla-core-lib/download/2891841
 https://www.curseforge.com/minecraft/mc-mods/mantle/download/2713386
