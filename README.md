@@ -189,4 +189,5 @@ apple-core: 1.12.2-3.4.0 # https://www.curseforge.com/minecraft/mc-mods/applecor
 gunpowderlib: 1.12.2-1.1 # https://www.curseforge.com/minecraft/mc-mods/gunpowderlib/files/3168863
 libraryex: 1.12.2-1.2.1 # https://www.curseforge.com/minecraft/mc-mods/libraryex/download/3137253
 gottsch-core: 1.12.2-f14.23.5.2854-v1.14.0 # https://www.curseforge.com/minecraft/mc-mods/gottschcore/download/3138042
+just-enough-ids: 1.0.3-55 # https://www.curseforge.com/minecraft/mc-mods/jeid/download/2919737
 ```
