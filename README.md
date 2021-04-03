@@ -124,7 +124,7 @@ pams-harvestcraft: 1.12.2zg # https://www.curseforge.com/minecraft/mc-mods/pams-
 pams-brewcraft: 1.12.2-1.0.2 # https://www.curseforge.com/minecraft/mc-mods/pams-brewcraft/download/2997188
 pams-breadcraft: 1.12.2-1.1.1 # https://www.curseforge.com/minecraft/mc-mods/pams-breadcraft/download/3223057
 cooking-for-blockheads: 1.12.2-6.5.0 # https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads/download/2862651
-farming-for-blockheads: 1.12.2-3.1.28 # https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads/download/3222141
+farming-for-blockheads: 1.12.2-3.1.28 # https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads/download/2733508
 culinary-construct: 1.3.4 # https://www.curseforge.com/minecraft/mc-mods/culinary-construct/download/2937109
 jaffa: 7.63.1 # https://www.curseforge.com/minecraft/mc-mods/jaffa-foods-a-harvestcraft-addon/download/2830763
 future-mc: 1.12.2-0.2.6.1 # https://www.curseforge.com/minecraft/mc-mods/future-mc/download/3194413
