@@ -150,7 +150,7 @@ inventory-tweaks: 1.63 # https://www.curseforge.com/minecraft/mc-mods/inventory-
 hwyla: 1.8.26-b41 # https://www.curseforge.com/minecraft/mc-mods/hwyla/download/2568751
 jei: 1.12.2-4.16.1.301 # https://www.curseforge.com/minecraft/mc-mods/jei/download/3040523
 jehc: 1.7.2 # https://www.curseforge.com/minecraft/mc-mods/just-enough-harvestcraft/download/2997129
-tjei: 1.12.2-1.6.0-27 # https://www.curseforge.com/minecraft/mc-mods/thaumic-jei/download/2705304
+# tjei: 1.12.2-1.6.0-27 # https://www.curseforge.com/minecraft/mc-mods/thaumic-jei/download/2705304
 jee: 1.12.2-1.0.8 # https://www.curseforge.com/minecraft/mc-mods/just-enough-energistics-jee/download/2783832
 jer: 1.12.2-1.1.3.61 # https://www.curseforge.com/minecraft/mc-mods/just-enough-reactors/download/2671784
 gjeia: 1.0.2 # https://www.curseforge.com/minecraft/mc-mods/gendustry-jei-addon/download/2609434

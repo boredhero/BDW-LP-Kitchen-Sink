@@ -130,7 +130,6 @@ https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/download/2482481
 https://www.curseforge.com/minecraft/mc-mods/hwyla/download/2568751
 https://www.curseforge.com/minecraft/mc-mods/jei/download/3040523
 https://www.curseforge.com/minecraft/mc-mods/just-enough-harvestcraft/download/2997129
-https://www.curseforge.com/minecraft/mc-mods/thaumic-jei/download/2705304
 https://www.curseforge.com/minecraft/mc-mods/just-enough-energistics-jee/download/2783832
 https://www.curseforge.com/minecraft/mc-mods/just-enough-reactors/download/2671784
 https://www.curseforge.com/minecraft/mc-mods/gendustry-jei-addon/download/2609434
