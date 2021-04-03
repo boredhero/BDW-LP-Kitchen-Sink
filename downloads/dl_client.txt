@@ -165,3 +165,6 @@ https://www.curseforge.com/minecraft/mc-mods/mysticallib/download/3243257
 https://www.curseforge.com/minecraft/mc-mods/openmodslib/download/2699055
 https://www.curseforge.com/minecraft/mc-mods/hammer-lib/download/3157564
 https://www.curseforge.com/minecraft/mc-mods/applecore/download/2969118
+https://www.curseforge.com/minecraft/mc-mods/gunpowderlib/files/3168863
+https://www.curseforge.com/minecraft/mc-mods/libraryex/download/3137253
+https://www.curseforge.com/minecraft/mc-mods/gottschcore/download/3138042

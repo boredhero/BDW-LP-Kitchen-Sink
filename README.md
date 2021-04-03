@@ -185,4 +185,7 @@ mystical-lib: 1.12.2-1.10.0 # https://www.curseforge.com/minecraft/mc-mods/mysti
 openmodslib: 1.12.2-0.12.2 # https://www.curseforge.com/minecraft/mc-mods/openmodslib/download/2699055
 hammer-core: 2.0.6.26 # https://www.curseforge.com/minecraft/mc-mods/hammer-lib/download/3157564
 apple-core: 1.12.2-3.4.0 # https://www.curseforge.com/minecraft/mc-mods/applecore/download/2969118
+gunpowderlib: 1.12.2-1.1 # https://www.curseforge.com/minecraft/mc-mods/gunpowderlib/files/3168863
+libraryex: 1.12.2-1.2.1 # https://www.curseforge.com/minecraft/mc-mods/libraryex/download/3137253
+gottsch-core: 1.12.2-f14.23.5.2854-v1.14.0 # https://www.curseforge.com/minecraft/mc-mods/gottschcore/download/3138042
 ```
